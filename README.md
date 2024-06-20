@@ -1,2 +1,1 @@
-This Repositry consist of all my HTML CSS Projects
-which i have made for practice purpose in my development journey.
+<pr> This Repositry consists of all my HTML and CSS Projects which i have made my web development jounrney.<pr>
